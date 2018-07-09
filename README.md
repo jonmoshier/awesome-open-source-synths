@@ -35,6 +35,8 @@ Categories:
 
 - Other/utility (oscilloscope, lights, MIDI-to-CV, etc)
 
+- Full Voice 
+
 
 ## Contents
 
@@ -45,6 +47,7 @@ Categories:
 - [Routing](#routing)
 - [Audio effects](#audio-effects)
 - [Other/utility](#otherutility)
+- Full Voice(#full-voice)
 
 
 ## Modular
