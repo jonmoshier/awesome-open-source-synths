@@ -10,13 +10,13 @@ Other/utility (oscilloscope, lights, MIDI-to-CV, etc)
 
 ## Contents
 
-- [Audio source] (#audio-source)
-- [Audio processing] (#audio-processing)
-- [Modulation source] (#modulation-source)
-- [Modulation processing] (#modulation-processing)
-- [Routing] (#routing)
-- [Audio effects] (#audio-effects)
-- [Other/utility](#other-utility)
+- [Audio source](#audio-source)
+- [Audio processing](#audio-processing)
+- [Modulation source](#modulation-source)
+- [Modulation processing](#modulation-processing)
+- [Routing](#routing)
+- [Audio effects](#audio-effects)
+- [Other/utility](#otherutility)
 
 
 ## Modular
