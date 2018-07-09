@@ -1,12 +1,33 @@
 # Awesome Open Source Synthesizers
 
-Audio source (things that can generate frequencies above 20Hz) 
-Audio processing (filter, amplifier, ring modulator, frequency shifter, waveshaper, distortion) 
-Modulation source (LFOs, EGs, gates, triggers, random voltages, offset generators) 
-Modulation processing (logic functions, sample and hold, slew limiter, comparator, inverter, quantizer) 
-Routing (mixer, switch, mult) 
-Audio effects (delays, DSP, phaser, pitchshifter) 
-Other/utility (oscilloscope, lights, MIDI-to-CV, etc)
+
+Organized by Function -> Format -> Alphabetical
+
+Entries are as 
+```
+### Category
+- format
+  - [Project Name](link to open source assets) : Description and details ([website name](link to original website if different than assets))
+  
+```
+
+
+Categories:
+
+- Audio source (things that can generate frequencies above 20Hz)
+
+- Audio processing (filter, amplifier, ring modulator, frequency shifter, waveshaper, distortion)
+
+- Modulation source (LFOs, EGs, gates, triggers, random voltages, offset generators)
+
+- Modulation processing (logic functions, sample and hold, slew limiter, comparator, inverter, quantizer)
+
+- Routing (mixer, switch, mult)
+
+- Audio effects (delays, DSP, phaser, pitchshifter)
+
+- Other/utility (oscilloscope, lights, MIDI-to-CV, etc)
+
 
 ## Contents
 
