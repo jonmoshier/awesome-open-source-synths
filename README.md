@@ -40,14 +40,16 @@ Categories:
 
 ## Contents
 
-- [Audio source](#audio-source)
-- [Audio processing](#audio-processing)
-- [Modulation source](#modulation-source)
-- [Modulation processing](#modulation-processing)
-- [Routing](#routing)
-- [Audio effects](#audio-effects)
-- [Other/utility](#otherutility)
-- [Full Voice](#full-voice)
+- [Modular](#modular)
+  - [Audio source](#audio-source)
+  - [Audio processing](#audio-processing)
+  - [Modulation source](#modulation-source)
+  - [Modulation processing](#modulation-processing)
+  - [Routing](#routing)
+  - [Audio effects](#audio-effects)
+  - [Other/utility](#otherutility)
+  - [Full Voice](#full-voice)
+- [Standalone](#standalone)
 
 
 ## Modular
@@ -71,4 +73,8 @@ Categories:
 ### Other/Utility
 
 ### Full Voice
+- 
+
+## Standalone
+- [The Klangorium](https://github.com/hexagon5un/klangorium) - Hardware and tutorials for the Hackaday / Logic Noise Klangorium demo board
 
