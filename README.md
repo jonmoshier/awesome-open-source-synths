@@ -56,6 +56,7 @@ Categories:
 ### Modulation Source
 - Eurorack
   - LFO
+    - [Swirls](https://github.com/ElectricMist/Swirls) : Tides in an 8hp footprint
     - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
 
 ### Modulation Processing
