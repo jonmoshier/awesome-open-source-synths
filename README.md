@@ -27,7 +27,7 @@ Other/utility (oscilloscope, lights, MIDI-to-CV, etc)
 
 ### Modulation Source
 - Eurorack
-  - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ( Website : [Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/)
+  - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
 
 ### Modulation Processing
 
