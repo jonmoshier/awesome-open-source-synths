@@ -1,43 +1,19 @@
 # Awesome Open Source Synthesizers
 
-
-Organized by Function -> Format -> Alphabetical
-
-Entries are as 
-```
-### Category
-- format
-  - [Project Name](link to open source assets) : Description and details ([website name](link to original website if different than assets))
-  
-```
-
-
-Categories:
-
-- Audio source (things that can generate frequencies above 20Hz)
-
-- Audio processing (filter, amplifier, ring modulator, frequency shifter, waveshaper, distortion)
-
-- Modulation source (LFOs, EGs, gates, triggers, random voltages, offset generators)
-
-- Modulation processing (logic functions, sample and hold, slew limiter, comparator, inverter, quantizer)
-
-- Routing (mixer, switch, mult)
-
-- Audio effects (delays, DSP, phaser, pitchshifter)
-
-- Other/utility (oscilloscope, lights, MIDI-to-CV, etc)
-
+An awesome list of open source synthesizer projects.
 
 ## Contents
 
-- [Audio source](#audio-source)
-- [Audio processing](#audio-processing)
-- [Modulation source](#modulation-source)
-- [Modulation processing](#modulation-processing)
-- [Routing](#routing)
-- [Audio effects](#audio-effects)
-- [Other/utility](#otherutility)
+- [Modular](#modular)
+  - [Audio source (things that can generate frequencies above 20Hz)](#audio-source)
+  - [Audio processing (filter, amplifier, ring modulator, frequency shifter, waveshaper, distortion)](#audio-processing)
+  - [Modulation source (LFOs, EGs, gates, triggers, random voltages, offset generators)](#modulation-source)
+  - [Modulation processing (logic functions, sample and hold, slew limiter, comparator, inverter, quantizer)](#modulation-processing)
+  - [Routing (mixer, switch, mult)](#routing)
+  - [Audio effects (delays, DSP, phaser, pitchshifter)](#audio-effects)
+  - [Other/utility (oscilloscope, lights, MIDI-to-CV, etc)](#otherutility)
+  - [Full Voice](#full-voice)
+- [Standalone](#standalone)
 
 
 ## Modular
@@ -48,7 +24,9 @@ Categories:
 
 ### Modulation Source
 - Eurorack
-  - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
+  - LFO
+    - [Swirls](https://github.com/ElectricMist/Swirls) : Tides in an 8hp footprint
+    - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
 
 ### Modulation Processing
 
@@ -59,4 +37,7 @@ Categories:
 ### Other/Utility
 
 ### Full Voice
+
+## Standalone
+- [The Klangorium](https://github.com/hexagon5un/klangorium) - Hardware and tutorials for the Hackaday / Logic Noise Klangorium demo board
 
