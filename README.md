@@ -47,7 +47,7 @@ Categories:
 - [Routing](#routing)
 - [Audio effects](#audio-effects)
 - [Other/utility](#otherutility)
-- Full Voice(#full-voice)
+- [Full Voice](#full-voice)
 
 
 ## Modular
