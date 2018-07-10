@@ -23,10 +23,19 @@ An awesome list of open source synthesizer projects.
 ### Audio Processing
 
 ### Modulation Source
+
 - Eurorack
+
   - LFO
     - [Swirls](https://github.com/ElectricMist/Swirls) : Tides in an 8hp footprint
     - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
+    - [Wobbler](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Advanced LFO ([TINRS - Wobbler](http://www2.thisisnotrocketscience.nl/eurorack/wobbler/)
+  
+  - Sequencer
+    - [Tuesday](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Procedural Sequencer ([TINRS - Tuesday](http://www2.thisisnotrocketscience.nl/eurorack/tuesday/)
+    
+  - Envelope Generator / ADSR
+    - [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/)
 
 ### Modulation Processing
 
