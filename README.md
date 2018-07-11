@@ -44,8 +44,11 @@ An awesome list of open source synthesizer projects.
 ### Audio Effects
 
 ### Other/Utility
+
 -   Eurorack
-  - Mixer
+
+    - Mixer
+
     - [Trippe Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : TAM is a three precision attenuator/attenuverter.
 ### Full Voice
 
