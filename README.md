@@ -33,7 +33,7 @@ An awesome list of open source synthesizer projects.
 
     -   Sequencer
         -   [Tuesday](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Procedural Sequencer ([TINRS - Tuesday](http://www2.thisisnotrocketscience.nl/eurorack/tuesday/))
-        -   [Turing Machine mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([MTM - Turing Machine mk2](https://www.thonk.co.uk/shop/turingmkii/))   
+        -   [Turing Machine mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([MTM - Turing Machine mk2](https://www.thonk.co.uk/shop/turingmkii/))
 
     -   Envelope Generator / ADSR
         -   [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/))
@@ -46,6 +46,11 @@ An awesome list of open source synthesizer projects.
 
 ### Other/Utility
 
+-   Eurorack
+
+    -   Mixer
+
+        - [Trippe Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : TAM is a three precision attenuator/attenuverter.
 ### Full Voice
 
 ## Standalone
