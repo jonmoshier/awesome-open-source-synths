@@ -42,6 +42,7 @@ An awesome list of open source synthesizer projects.
     - [Turing Machine Mk2 expander - Volts](https://github.com/TomWhitwell/Volts) : Expander for the Turing Machine Mk2 [(Music Thing Modular - Volts Expander](http://www.musicthing.co.uk/)
     - [Turing Machine Mk2 expander - Pulses](https://github.com/TomWhitwell/Turing-Pulse-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Pulses Expander](http://www.musicthing.co.uk/))
     - [Turing Macine Mk2 expander - Voltages](https://github.com/TomWhitwell/Voltages-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Voltages](http://www.musicthing.co.uk/))
+    - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/))
 
 
   - Envelope Generator / ADSR
