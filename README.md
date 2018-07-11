@@ -27,16 +27,15 @@ An awesome list of open source synthesizer projects.
 
     -   LFO
 
-        -   [Swirls](https://github.com/ElectricMist/Swirls) : Tides in an 8hp footprint
-        -   [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
-        -   [Wobbler](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Advanced LFO ([TINRS - Wobbler](http://www2.thisisnotrocketscience.nl/eurorack/wobbler/))
+    -   [Swirls](https://github.com/ElectricMist/Swirls) : Tides in an 8hp footprint        -   [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
+    -   [Wobbler](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Advanced LFO ([TINRS - Wobbler](http://www2.thisisnotrocketscience.nl/eurorack/wobbler/))
 
     -   Sequencer
-        -   [Tuesday](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Procedural Sequencer ([TINRS - Tuesday](http://www2.thisisnotrocketscience.nl/eurorack/tuesday/))
-        -   [Turing Machine mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([MTM - Turing Machine mk2](https://www.thonk.co.uk/shop/turingmkii/))
+    -   [Tuesday](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Procedural Sequencer ([TINRS - Tuesday](http://www2.thisisnotrocketscience.nl/eurorack/tuesday/))
+    -   [Turing Machine mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([MTM - Turing Machine mk2](https://www.thonk.co.uk/shop/turingmkii/))
 
     -   Envelope Generator / ADSR
-        -   [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/))
+    -   [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/))
 
 ### Modulation Processing
 
@@ -45,12 +44,9 @@ An awesome list of open source synthesizer projects.
 ### Audio Effects
 
 ### Other/Utility
-
 -   Eurorack
-
-    -   Mixer
-
-        - [Trippe Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : TAM is a three precision attenuator/attenuverter.
+  - Mixer
+    - [Trippe Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : TAM is a three precision attenuator/attenuverter.
 ### Full Voice
 
 ## Standalone
