@@ -33,7 +33,8 @@ An awesome list of open source synthesizer projects.
 
   - Sequencer
     - [Tuesday](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Procedural Sequencer ([TINRS - Tuesday](http://www2.thisisnotrocketscience.nl/eurorack/tuesday/))
-    -[Turing Machine Mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([Music Thing Modular - Turing Machine mk2](https://www.thonk.co.uk/shop/turingmkii/)) 
+    - [Turing Machine Mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([Music Thing Modular - Turing Machine mk2](https://www.thonk.co.uk/shop/turingmkii/))
+
 
   - Envelope Generator / ADSR
     - [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/))
