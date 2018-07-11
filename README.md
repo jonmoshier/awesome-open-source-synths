@@ -22,6 +22,11 @@ An awesome list of open source synthesizer projects.
 
 ### Audio Processing
 
+- Eurorack
+
+  - Filter
+    - [Jove](https://github.com/minisystem/JOVE) : Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format ([System80 - Jove](http://system80.net/product/jove/))
+
 ### Modulation Source
 
 - Eurorack
