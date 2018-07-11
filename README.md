@@ -30,7 +30,6 @@ An awesome list of open source synthesizer projects.
 ### Modulation Source
 
 - Eurorack
-
   - LFO
     - [Swirls](https://github.com/ElectricMist/Swirls) : Tides in an 8hp footprint
     - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : Tidal modulator ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
@@ -38,10 +37,10 @@ An awesome list of open source synthesizer projects.
 
   - Sequencer
     - [Tuesday](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Procedural Sequencer ([TINRS - Tuesday](http://www2.thisisnotrocketscience.nl/eurorack/tuesday/))
-    - [Turing Machine Mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([Music Thing Modular - Turing Machine Mk2](http://www.musicthing.co.uk/))
-    - [Turing Machine Mk2 expander - Volts](https://github.com/TomWhitwell/Volts) : Expander for the Turing Machine Mk2 [(Music Thing Modular - Volts Expander](http://www.musicthing.co.uk/)
-    - [Turing Machine Mk2 expander - Pulses](https://github.com/TomWhitwell/Turing-Pulse-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Pulses Expander](http://www.musicthing.co.uk/))
-    - [Turing Macine Mk2 expander - Voltages](https://github.com/TomWhitwell/Voltages-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Voltages](http://www.musicthing.co.uk/))
+    - [Turing Machine Mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([Music Thing Modular - Turing Machine Mk2](http://musicthing.co.uk/pages/turing.html))
+    - [Turing Machine Mk2 expander - Volts](https://github.com/TomWhitwell/Volts) : Expander for the Turing Machine Mk2 [(Music Thing Modular - Volts Expander](http://musicthing.co.uk/pages/volts.html)
+    - [Turing Machine Mk2 expander - Pulses](https://github.com/TomWhitwell/Turing-Pulse-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Pulses Expander](http://musicthing.co.uk/pages/pulses.html))
+    - [Turing Macine Mk2 expander - Voltages](https://github.com/TomWhitwell/Voltages-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Voltages](http://musicthing.co.uk/pages/voltages.html))
 
 
   - Envelope Generator / ADSR
@@ -57,9 +56,8 @@ An awesome list of open source synthesizer projects.
 - Eurorack
 
   - Mixer
-
     - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
-    -
+    
   - Amplifier
     - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/))
 
