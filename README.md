@@ -33,6 +33,8 @@ An awesome list of open source synthesizer projects.
   - Filter
     - [Jove](https://github.com/minisystem/JOVE) : Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format ([System80 - Jove](http://system80.net/product/jove/))
     - [Ripples](https://github.com/pichenettes/eurorack/tree/master/ripples/hardware_design) : Liquid 2-pole BP, 2-pole LP and 4-pole LP filter ([Mutable Instruments - Ripples](https://mutable-instruments.net/modules/ripples/))
+    - [Shelves](https://github.com/pichenettes/eurorack/tree/master/shelves/hardware_design) : Eq filter ([Mutable Instruments - Shelves](https://mutable-instruments.net/modules/shelves/))
+    - [Streams](https://github.com/pichenettes/eurorack/tree/master/streams) : Dual dynamics gate ([Mutable Instruments - Streams](https://mutable-instruments.net/modules/streams/))
   - Amplifier
       - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
       - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments - Ears](https://mutable-instruments.net/modules/ears/))
@@ -58,6 +60,7 @@ An awesome list of open source synthesizer projects.
   - Envelope Generator / ADSR
     - [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/))
     - [Peaks](https://github.com/pichenettes/eurorack/tree/master/peaks) : Envelope/LFO/tap LFO/Drum generator ([Mutable Instruments - Peaks](https://mutable-instruments.net/modules/peaks/))
+    - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
 
 ### Modulation Processing
 - Eurorack
@@ -76,6 +79,7 @@ An awesome list of open source synthesizer projects.
     - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
     - [Links](https://github.com/pichenettes/eurorack/tree/master/links/hardware_design) : Buffer, mixer ([Mutable Instruments - Links](https://mutable-instruments.net/modules/links/))
     - [Frames](https://github.com/pichenettes/eurorack/tree/master/frames) : Keyframer/mixer ([Mutable Instruments - Frames](https://mutable-instruments.net/modules/frames/))
+    - [Shades](https://github.com/pichenettes/eurorack/tree/master/shades/hardware_design) : Attenuator/offset/mixer ([Mutable Instruments - Shades](https://mutable-instruments.net/modules/shades/))
 
 ### Audio Effects
 - Eurorack
