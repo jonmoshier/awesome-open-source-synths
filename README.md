@@ -35,9 +35,13 @@ An awesome list of open source synthesizer projects.
     - [Ripples](https://github.com/pichenettes/eurorack/tree/master/ripples/hardware_design) : Liquid 2-pole BP, 2-pole LP and 4-pole LP filter ([Mutable Instruments - Ripples](https://mutable-instruments.net/modules/ripples/))
     - [Shelves](https://github.com/pichenettes/eurorack/tree/master/shelves/hardware_design) : Eq filter ([Mutable Instruments - Shelves](https://mutable-instruments.net/modules/shelves/))
     - [Streams](https://github.com/pichenettes/eurorack/tree/master/streams) : Dual dynamics gate ([Mutable Instruments - Streams](https://mutable-instruments.net/modules/streams/))
+  - Waveshaper
+    - [Warps](https://github.com/pichenettes/eurorack/tree/master/warps) : Meta-modulator ([Mutable Instruments - Warps](https://mutable-instruments.net/modules/warps/))
   - Amplifier
       - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
       - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments - Ears](https://mutable-instruments.net/modules/ears/))
+  - VCA
+    - [Veils](https://github.com/pichenettes/eurorack/tree/master/veils/hardware_design) : Quad VCA ([Mutable Instruments - Veils](https://mutable-instruments.net/modules/veils/))
 
 ### Modulation Source
 
@@ -89,6 +93,9 @@ An awesome list of open source synthesizer projects.
 
 ### Other/Utility
 - Eurorack
+
+  - MIDI-to-CV
+    - [Yarns](https://github.com/pichenettes/eurorack/tree/master/tides) : MIDI interface ([Mutable Instruments - Yarns](https://mutable-instruments.net/modules/tides/))
 
 
 
