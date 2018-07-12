@@ -59,7 +59,7 @@ An awesome list of open source synthesizer projects.
   - Mixer
 
     - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
-    -
+    - [Blinds](https://github.com/pichenettes/eurorack/tree/master/blinds) : Quad VC-polarizer ([Mutable Instruments - Blinds](https://mutable-instruments.net/modules/blinds/))
   - Amplifier
     - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
 
