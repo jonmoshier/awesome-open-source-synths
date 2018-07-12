@@ -33,7 +33,7 @@ An awesome list of open source synthesizer projects.
     - [Jove](https://github.com/minisystem/JOVE) : Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format ([System80 - Jove](http://system80.net/product/jove/))
   - Amplifier
       - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
-      - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments](https://mutable-instruments.net/modules/ears/))
+      - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments - Ears](https://mutable-instruments.net/modules/ears/))
 
 ### Modulation Source
 
@@ -50,6 +50,7 @@ An awesome list of open source synthesizer projects.
     - [Turing Machine Mk2 expander - Volts](https://github.com/TomWhitwell/Volts) : Expander for the Turing Machine Mk2 [(Music Thing Modular - Volts Expander](http://www.musicthing.co.uk/)
     - [Turing Machine Mk2 expander - Pulses](https://github.com/TomWhitwell/Turing-Pulse-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Pulses Expander](http://www.musicthing.co.uk/))
     - [Turing Macine Mk2 expander - Voltages](https://github.com/TomWhitwell/Voltages-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Voltages](http://www.musicthing.co.uk/))
+    - [Grids](https://github.com/pichenettes/eurorack/tree/master/grids) : Topographic drum sequencer ([Mutable Instruments - Grids](https://mutable-instruments.net/modules/grids/))
 
 
   - Envelope Generator / ADSR
@@ -62,12 +63,16 @@ An awesome list of open source synthesizer projects.
     - [Branches](https://github.com/pichenettes/eurorack/tree/master/branches) : Dual Bernoulli Gate ([Mutable Instruments - Branches](https://mutable-instruments.net/modules/branches/))
   - Inverter
     - [Blinds](https://github.com/pichenettes/eurorack/tree/master/blinds) : Quad VC-polarizer ([Mutable Instruments - Blinds](https://mutable-instruments.net/modules/blinds/))
+  - Sample and Hold
+    - [Kinks](https://github.com/pichenettes/eurorack/tree/master/kinks/hardware_design) : S&H, rectifier, analog logic, noise ([Mutable Instruments - Kinks](https://mutable-instruments.net/modules/kinks/))
 
 ### Routing
 - Eurorack
 
   - Mixer
     - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
+    - [Links](https://github.com/pichenettes/eurorack/tree/master/links/hardware_design) : Buffer, mixer ([Mutable Instruments - Links](https://mutable-instruments.net/modules/links/))
+    - [Frames](https://github.com/pichenettes/eurorack/tree/master/frames) : Keyframer/mixer ([Mutable Instruments - Frames](https://mutable-instruments.net/modules/frames/))
 
 ### Audio Effects
 - Eurorack
