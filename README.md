@@ -58,11 +58,6 @@ An awesome list of open source synthesizer projects.
     - [Turing Machine Mk2 expander - Volts](https://github.com/TomWhitwell/Volts) : Expander for the Turing Machine Mk2 [(Music Thing Modular - Volts Expander](http://musicthing.co.uk/pages/volts.html)
     - [Turing Machine Mk2 expander - Pulses](https://github.com/TomWhitwell/Turing-Pulse-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Pulses Expander](http://musicthing.co.uk/pages/pulses.html))
     - [Turing Macine Mk2 expander - Voltages](https://github.com/TomWhitwell/Voltages-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Voltages](http://musicthing.co.uk/pages/voltages.html))
-
-    - [Turing Machine Mk2](https://github.com/TomWhitwell/TuringMachine) : Random Looping Sequencer ([Music Thing Modular - Turing Machine Mk2](http://www.musicthing.co.uk/pages/turing.html))
-    - [Turing Machine Mk2 expander - Volts](https://github.com/TomWhitwell/Volts) : Expander for the Turing Machine Mk2 [(Music Thing Modular - Volts Expander](http://www.musicthing.co.uk/pages/volts.html)
-    - [Turing Machine Mk2 expander - Pulses](https://github.com/TomWhitwell/Turing-Pulse-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Pulses Expander](http://www.musicthing.co.uk/pages/pulses.html))
-    - [Turing Macine Mk2 expander - Voltages](https://github.com/TomWhitwell/Voltages-Expander) : Expander for the Turing Machine Mk2 ([Music Thing Modular - Voltages](http://www.musicthing.co.uk/pages/voltages.html))
     - [Grids](https://github.com/pichenettes/eurorack/tree/master/grids) : Topographic drum sequencer ([Mutable Instruments - Grids](https://mutable-instruments.net/modules/grids/))
 
   - Envelope Generator / ADSR
