@@ -105,7 +105,7 @@ An awesome list of open source synthesizer projects.
     - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/))
 
   - MIDI-to-CV
-    - [Yarns](https://github.com/pichenettes/eurorack/tree/master/tides) : MIDI interface ([Mutable Instruments - Yarns](https://mutable-instruments.net/modules/tides/))
+    - [Yarns](https://github.com/pichenettes/eurorack/tree/master/yarns) : MIDI interface ([Mutable Instruments - Yarns](https://mutable-instruments.net/modules/yarns/))
 
 ### Full Voice
 - Eurorack
