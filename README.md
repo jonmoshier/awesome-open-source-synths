@@ -61,7 +61,7 @@ An awesome list of open source synthesizer projects.
     - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
     -
   - Amplifier
-    - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/))
+    - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
 
 ### Full Voice
 
