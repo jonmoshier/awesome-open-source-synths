@@ -23,6 +23,7 @@ An awesome list of open source synthesizer projects.
 
     - Oscillator
       - [Braids](https://github.com/pichenettes/eurorack/tree/master/braids) : Macro-oscillator ([Mutable Instruments - Braids](https://mutable-instruments.net/modules/braids/))
+      - [Edges](https://github.com/pichenettes/eurorack/tree/master/edges) : Quad chiptune digital oscillator ([Mutable Instruments - Edges](https://mutable-instruments.net/modules/edges/))
 
 ### Audio Processing
 
@@ -30,6 +31,9 @@ An awesome list of open source synthesizer projects.
 
   - Filter
     - [Jove](https://github.com/minisystem/JOVE) : Roland Jupiter 6 inspired multimode filter in 14HP Eurorack format ([System80 - Jove](http://system80.net/product/jove/))
+  - Amplifier
+      - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
+      - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments](https://mutable-instruments.net/modules/ears/))
 
 ### Modulation Source
 
@@ -54,31 +58,33 @@ An awesome list of open source synthesizer projects.
 ### Modulation Processing
 - Eurorack
 
-  - Chance
-
+  - Logic Functions
     - [Branches](https://github.com/pichenettes/eurorack/tree/master/branches) : Dual Bernoulli Gate ([Mutable Instruments - Branches](https://mutable-instruments.net/modules/branches/))
+  - Inverter
+    - [Blinds](https://github.com/pichenettes/eurorack/tree/master/blinds) : Quad VC-polarizer ([Mutable Instruments - Blinds](https://mutable-instruments.net/modules/blinds/))
 
 ### Routing
+- Eurorack
+
+  - Mixer
+    - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
 
 ### Audio Effects
 - Eurorack
 
   - Reverb
-
     - [Clouds](https://github.com/pichenettes/eurorack/tree/master/clouds) : Texture synthesizer ([Mutable Instrument - Clouds](https://mutable-instruments.net/modules/clouds/))
 
 ### Other/Utility
 - Eurorack
 
-  - Mixer
 
-    - [Tripple Attenuverter Mixer v2](https://github.com/ishkabbible/Triple_Attenuverter_Mixer_v2) : Three precision attenuators/attenuverters
-    - [Blinds](https://github.com/pichenettes/eurorack/tree/master/blinds) : Quad VC-polarizer ([Mutable Instruments - Blinds](https://mutable-instruments.net/modules/blinds/))
-  - Amplifier
-    - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
-    - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments](https://mutable-instruments.net/modules/ears/))
+
 
 ### Full Voice
+- Eurorack
+
+  - [Elements](https://github.com/pichenettes/eurorack/tree/master/elements) : Modal Synthesizer ([Mutable Instruments - Elements](https://mutable-instruments.net/modules/elements/))
 
 ## Standalone
 - [The Klangorium](https://github.com/hexagon5un/klangorium) - Hardware and tutorials for the Hackaday / Logic Noise Klangorium demo board
