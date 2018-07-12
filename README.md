@@ -19,6 +19,10 @@ An awesome list of open source synthesizer projects.
 ## Modular
 
 ### Audio Source
+  - Eurorack
+
+    - Oscillator
+      - [Braids](https://github.com/pichenettes/eurorack/tree/master/braids) : Macro-oscillator ([Mutable Instruments - Braids](https://mutable-instruments.net/modules/braids/))
 
 ### Audio Processing
 
@@ -48,10 +52,20 @@ An awesome list of open source synthesizer projects.
     - [Edgecutter](https://github.com/ThisIsNotRocketScience/Eurorack-Modules/tree/master/Production) : Visual envelope ([TINRS - Edgecutter](http://www2.thisisnotrocketscience.nl/eurorack/edgecutter/))
 
 ### Modulation Processing
+- Eurorack
+
+  - Chance
+
+    - [Branches](https://github.com/pichenettes/eurorack/tree/master/branches) : Dual Bernoulli Gate ([Mutable Instruments - Branches](https://mutable-instruments.net/modules/branches/))
 
 ### Routing
 
 ### Audio Effects
+- Eurorack
+
+  - Reverb
+
+    - [Clouds](https://github.com/pichenettes/eurorack/tree/master/clouds) : Texture synthesizer ([Mutable Instrument - Clouds](https://mutable-instruments.net/modules/clouds/))
 
 ### Other/Utility
 - Eurorack
@@ -62,6 +76,7 @@ An awesome list of open source synthesizer projects.
     - [Blinds](https://github.com/pichenettes/eurorack/tree/master/blinds) : Quad VC-polarizer ([Mutable Instruments - Blinds](https://mutable-instruments.net/modules/blinds/))
   - Amplifier
     - [Mikrophonie](https://github.com/TomWhitwell/Mikrophonie) : 4hp contact mic pre-amp module ([Music Thing Modular - Mikrophonie](http://www.musicthing.co.uk/pages/mikrophonie.html))
+    - [Ears](https://github.com/pichenettes/eurorack/tree/master/ears/hardware_design) : Contact Microphone ([Mutable Instruments](https://mutable-instruments.net/modules/ears/))
 
 ### Full Voice
 
