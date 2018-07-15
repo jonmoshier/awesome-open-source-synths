@@ -65,6 +65,11 @@ An awesome list of open source synthesizer projects.
     - [Peaks](https://github.com/pichenettes/eurorack/tree/master/peaks) : Envelope/LFO/tap LFO/Drum generator ([Mutable Instruments - Peaks](https://mutable-instruments.net/modules/peaks/))
     - [Tides](https://github.com/pichenettes/eurorack/tree/master/tides) : ([Mutable Instruments - Tides](https://mutable-instruments.net/modules/tides/))
 
+  - CV Generator
+    - [T_μ](https://github.com/jakplugg/T_u) : 8hp version of the Temps utile 6x clock generator by MXMXMX ([MXMXMX - Temps Utile](https://github.com/mxmxmx/temps_utile-/wiki/Temps-Utile))
+    - [O_c](https://github.com/jakplugg/uO_c) : 8hp version of ornament and crime polymorphic CV generator by MXMXMX ([MXMXMX - Ornament & Crime](http://ornament-and-cri.me/))
+
+
 ### Modulation Processing
 - Eurorack
 
