@@ -1,3 +1,5 @@
+We're out of date, please submit a PR! (and if you don't know how, no worries, ask me!)
+
 # Awesome Open Source Synthesizers
 
 An awesome list of open source synthesizer projects.
