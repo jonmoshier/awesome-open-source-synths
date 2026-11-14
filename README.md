@@ -26,6 +26,7 @@ An awesome list of open source synthesizer projects.
     - Oscillator
       - [Braids](https://github.com/pichenettes/eurorack/tree/master/braids) : Macro-oscillator ([Mutable Instruments - Braids](https://mutable-instruments.net/modules/braids/))
       - [Edges](https://github.com/pichenettes/eurorack/tree/master/edges) : Quad chiptune digital oscillator ([Mutable Instruments - Edges](https://mutable-instruments.net/modules/edges/))
+    - [FM-1 Emulator](https://fm1-emulator.atst.tools/) : Free browser emulator for the M-VAVE FM-1 pocket synth; plays stock and 200+ community firmwares
       - [Rings](https://github.com/pichenettes/eurorack/tree/master/rings) : Resonator ([Mutable Instruments - Rings](https://mutable-instruments.net/modules/rings/))
 
 ### Audio Processing
